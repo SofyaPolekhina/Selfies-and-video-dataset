@@ -18,14 +18,14 @@ The dataset consists of **4,052** sets videos and selfies (**32,416** media in t
 
 ### The dataset includes 4 different types of media files:
 - **Smartphone selfie** - a selfie of a person made with a mobile phone, the person is depicted alone on it, the face is clearly visible.
-- **Smartphone video** - filmed on the front camera, video of a person pronouncing numbers in Russian: duration of the first video is 30 seconds, duration of the second video is 8 seconds
+- **Smartphone video** - filmed on the front camera, video of a person pronouncing numbers: duration of the first video is 30 seconds, duration of the second video is 8 seconds
 - **Webcam selfie** - a selfie of a person made with a webcam, the person is depicted alone on it, the face is clearly visible.
-- **Webcam video** - filmed on the webcam, video of a person pronouncing numbers in Russian: duration of the first video is 30 seconds, duration of the second video is 8 seconds
+- **Webcam video** - filmed on the webcam, video of a person pronouncing numbers: duration of the first video is 30 seconds, duration of the second video is 8 seconds
 
 ### Data in the dataset
 - 4 video files and 4 images made with phone front camera (2 videos and 2 photos) and web camera (2 videos and 2 photos).
 - On video people pronounce numbers in Russian.
-- People from 18 to 70 age old are presented in the dataset.
+- People from 18 to 70 years old are presented in the dataset.
 - For each person in the dataset age, country and gender is presented.
 - The data was mostly collected indoor, however there are also selfies and videos made outdoors.
 - The lighting is artificial, natural daily lightning, evening outdoor lighting and dark indoor lighting.
