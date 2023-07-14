@@ -11,6 +11,8 @@ We introduce a large image dataset Anti Spoofing Real for training a neural netw
 
 The dataset consists of 44,832 videos and selfies from 37,980 unique people from 170 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
+![Desktop - 1 (2)](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/1a0d17ab-994d-4175-88cc-9cabe9fa3dd7)
+
 ### The dataset includes 2 different types of files:
 - **Photo** - a selfie of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
 - **Video** - filmed on the front camera, on which a person moves his/her head left, right, up and down. Duration of the video is from 10 to 20 seconds.
