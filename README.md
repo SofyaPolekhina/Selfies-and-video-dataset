@@ -7,13 +7,14 @@
 
 <a name="about"></a>
 # About the dataset
-We introduce a large image dataset "Selfies and Video" for training a neural network to repel various attacks on biometric access systems. The dataset consists of a collection of selfies and videos recorded by individuals using both their front and web cameras. The main focus of the videos is on people pronouncing numbers in the Russian language. It includes a wide range of individuals from various backgrounds and demographics.
+We introduce a large image dataset "Selfies and Video" for training a neural network to repel various attacks on biometric access systems. The dataset consists of a collection of selfies and videos recorded by individuals using both their front and web cameras. The main focus of the videos is on people pronouncing numbers in the wide range of individuals from various backgrounds and demographics.
 
 "Selfies and Video Dataset" solves re-identification tasks and could be utilized in the field of facial recognition technology, for emotion detection and sentiment analysis applications, the dataset could also find application in virtual reality (VR) and augmented reality (AR) technologies. Overall, the dataset offers a wide range of applications in computer vision, artificial intelligence, social analysis, and human-computer interaction domains.
 
 The dataset consists of 4,052 videos and selfies (32,416 in total) from 3,500+ unique people from 15 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
-![Desktop - 1 (2)](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/1a0d17ab-994d-4175-88cc-9cabe9fa3dd7)
+![Desktop - 1 (2)](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/6214e108-ae19-465e-801d-e1e3e8598054)
+
 
 ### The dataset includes 4 different types of media files:
 - **Smartphone selfie** - a selfie of a person made with a mobile phone, the person is depicted alone on it, the face is clearly visible.
@@ -32,8 +33,8 @@ The dataset consists of 4,052 videos and selfies (32,416 in total) from 3,500+ u
 - Distance from the camera is approximately 20-30 centimeters.
 
 ### People in the dataset
-![Desktop - 1 (1)](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/21fdf13c-51a0-4dc8-8777-2d0aa31be36b)
 
+![Desktop - 1 (1)](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/677f4d14-8fca-40e9-b029-9cd7a42babc9)
 
 <a name="dist"></a>
 
@@ -72,8 +73,7 @@ includes the following information for each media file:
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **https://trainingdata.pro/data-market?utm_source=github**
 
-![f6b78ac9-bfba-445f-9ce9-adbe4c3b25fb](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/52637cea-348e-448a-a86a-de7163f9ca68)
-
+![f6b78ac9-bfba-445f-9ce9-adbe4c3b25fb](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/a9447796-6b75-4f84-9f0d-0c782978cbc3)
 
 <a name="link"></a>
 # Links
