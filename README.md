@@ -7,15 +7,19 @@
 
 <a name="about"></a>
 # About the dataset
-We introduce a large image dataset "Selfies and Video" for training a neural network to repel various attacks on biometric access systems. The dataset consists of selfie photos and selfie videos of people. "Anti Spoofing Real Dataset" solves the tasks of training algorithms to distinguish real users from scammers. Proposed dataset allows to build identity recognition systems, which can be used to develop anti-spoofing solutions, such as countermeasures and system configurations that can help make authentication systems more secure.
+We introduce a large image dataset "Selfies and Video" for training a neural network to repel various attacks on biometric access systems. The dataset consists of a collection of selfies and videos recorded by individuals using both their front and web cameras. The main focus of the videos is on people pronouncing numbers in the Russian language. It includes a wide range of individuals from various backgrounds and demographics.
 
-The dataset consists of 44,832 videos and selfies from 37,980 unique people from 170 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
+"Selfies and Video Dataset" solves re-identification tasks and could be utilized in the field of facial recognition technology, for emotion detection and sentiment analysis applications, the dataset could also find application in virtual reality (VR) and augmented reality (AR) technologies. Overall, the dataset offers a wide range of applications in computer vision, artificial intelligence, social analysis, and human-computer interaction domains.
+
+The dataset consists of 4,052 videos and selfies (32,416 in total) from 3,500+ unique people from 15 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
 ![Desktop - 1 (2)](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/1a0d17ab-994d-4175-88cc-9cabe9fa3dd7)
 
-### The dataset includes 2 different types of files:
-- **Photo** - a selfie of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
-- **Video** - filmed on the front camera, on which a person moves his/her head left, right, up and down. Duration of the video is from 10 to 20 seconds.
+### The dataset includes 4 different types of media files:
+- **Smartphone selfie** - a selfie of a person made with a mobile phone, the person is depicted alone on it, the face is clearly visible.
+- **Smartphone video** - filmed on the front camera, video of a person pronouncing numbers in Russian: duration of the first video is 30 seconds, duration of the second video is 8 seconds
+- **Webcam selfie** - a selfie of a person made with a webcam, the person is depicted alone on it, the face is clearly visible.
+- **Webcam video** - filmed on the webcam, video of a person pronouncing numbers in Russian: duration of the first video is 30 seconds, duration of the second video is 8 seconds
 
 ### Data in the dataset
 - 4 video files and 4 images made with phone camera (2 videos and 2 photos) and web camera (2 videos and 2 photos).
