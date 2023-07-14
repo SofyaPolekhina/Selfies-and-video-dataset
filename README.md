@@ -22,7 +22,7 @@ The dataset consists of 4,052 videos and selfies (32,416 in total) from 3,500+ u
 - **Webcam video** - filmed on the webcam, video of a person pronouncing numbers in Russian: duration of the first video is 30 seconds, duration of the second video is 8 seconds
 
 ### Data in the dataset
-- 4 video files and 4 images made with phone camera (2 videos and 2 photos) and web camera (2 videos and 2 photos).
+- 4 video files and 4 images made with phone front camera (2 videos and 2 photos) and web camera (2 videos and 2 photos).
 - On video people pronounce numbers in Russian.
 - People from 18 to 70 age old are presented in the dataset.
 - For each person in the dataset age, country and gender is presented.
