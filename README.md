@@ -11,7 +11,7 @@ We introduce a large image dataset "Selfies and Video" for training a neural net
 
 "Selfies and Video Dataset" solves re-identification tasks and could be utilized in the field of facial recognition technology, for emotion detection and sentiment analysis applications, the dataset could also find application in virtual reality (VR) and augmented reality (AR) technologies. Overall, the dataset offers a wide range of applications in computer vision, artificial intelligence, social analysis, and human-computer interaction domains.
 
-The dataset consists of 4,052 videos and selfies (32,416 in total) from 3,500+ unique people from 15 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
+The dataset consists of **4,052** sets videos and selfies (**32,416** media in total) from **3,500+** unique people from **15** countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
 ![Desktop - 1 (2)](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/6214e108-ae19-465e-801d-e1e3e8598054)
 
