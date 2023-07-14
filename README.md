@@ -68,6 +68,7 @@ includes the following information for each media file:
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **https://trainingdata.pro/data-market?utm_source=github**
 
+![f6b78ac9-bfba-445f-9ce9-adbe4c3b25fb](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/52637cea-348e-448a-a86a-de7163f9ca68)
 
 
 <a name="link"></a>
