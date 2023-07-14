@@ -58,7 +58,7 @@ The dataset consists of **4,052** sets videos and selfies (**32,416** media in t
 # Content
 ### The folder **"samples"** includes 30 folders:
 - corresponding to each person in the sample
-- containing of selfie and video of the individual
+- containing of selfies and videos of the individual
 
 ### File with the extension .csv
 includes the following information for each media file:
