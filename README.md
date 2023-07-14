@@ -7,7 +7,7 @@
 
 <a name="about"></a>
 # About the dataset
-We introduce a large image dataset Anti Spoofing Real for training a neural network to repel various attacks on biometric access systems. The dataset consists of selfie photos and selfie videos of people. "Anti Spoofing Real Dataset" solves the tasks of training algorithms to distinguish real users from scammers. Proposed dataset allows to build identity recognition systems, which can be used to develop anti-spoofing solutions, such as countermeasures and system configurations that can help make authentication systems more secure.
+We introduce a large image dataset "Selfies and Video" for training a neural network to repel various attacks on biometric access systems. The dataset consists of selfie photos and selfie videos of people. "Anti Spoofing Real Dataset" solves the tasks of training algorithms to distinguish real users from scammers. Proposed dataset allows to build identity recognition systems, which can be used to develop anti-spoofing solutions, such as countermeasures and system configurations that can help make authentication systems more secure.
 
 The dataset consists of 44,832 videos and selfies from 37,980 unique people from 170 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
@@ -54,15 +54,13 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 
 ### File with the extension .csv
 includes the following information for each media file:
-- **phone**: the device used to capture the media files,
-- **selfie_link**: the URL to access the photo
-- **video_link**: the URL to access the video
-- **worker_id**: the identifier of the person who provided the media file,
-- **age**: the age of the person,
-- **country**: the country of origin of the person,
-- **gender**: the gender of the person,
-- **selfie_file_type**: the type of the photo,
-- **video_file_type**: the type of the video
+- **SetId**: the identifier of the set,
+- **WorkerId**: the identifier of the person who provided the set,
+- **Country**: country of the person,
+- **Age**: the age of the person,
+- **Gender**: gender of the person,
+- **Type**: type of the media file,
+- **Link**: the link to access the media file
 
 <a name="getdat"></a>
 # Get the Dataset
