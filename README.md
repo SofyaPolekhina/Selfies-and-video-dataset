@@ -18,6 +18,8 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 - **Video** - filmed on the front camera, on which a person moves his/her head left, right, up and down. Duration of the video is from 10 to 20 seconds.
 
 ### Data in the dataset
+- 4 video files and 4 images made with phone camera (2 videos and 2 photos) and web camera (2 videos and 2 photos).
+- On video people pronounce numbers in Russian.
 - People from 18 to 70 age old are presented in the dataset.
 - For each person in the dataset age, country and gender is presented.
 - The data was mostly collected indoor, however there are also selfies and videos made outdoors.
