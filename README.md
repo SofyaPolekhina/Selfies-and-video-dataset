@@ -42,16 +42,15 @@ The dataset consists of **4,052** sets videos and selfies (**32,416** media in t
 
 ### Gender of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/a8f82a30-f99e-4221-a50e-a8e7d0b7a392)
-
+![image](https://github.com/Trainingdata-datamarket/Selfies-and-video-dataset/assets/113421352/c98db718-1682-4281-9e48-4e6b3b1bffe2)
 
 ### Age of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/a8a600ca-d74f-4db4-a6f4-92864c6ad257)
+![image](https://github.com/Trainingdata-datamarket/Selfies-and-video-dataset/assets/113421352/fae52c59-bd58-471f-a850-0104b79117a0)
 
 ### Ethnicity of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/8236b123-4b9a-4561-a299-167cd89ba585)
+![image](https://github.com/Trainingdata-datamarket/Selfies-and-video-dataset/assets/113421352/caa01c78-5021-4e94-9055-fa83e10f9d57)
 
 <a name="cont"></a>
 
