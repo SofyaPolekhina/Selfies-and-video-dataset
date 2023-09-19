@@ -31,10 +31,6 @@ The dataset consists of **4,052** sets videos and selfies (**32,416** media in t
 - People provided selfies and videos of themselves where the head takes up at least 1/2 of the frame.
 - Distance from the camera is approximately 20-30 centimeters.
 
-### People in the dataset
-
-![Desktop - 1 (1)](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/677f4d14-8fca-40e9-b029-9cd7a42babc9)
-
 <a name="dist"></a>
 
 # Distributions
@@ -72,7 +68,7 @@ includes the following information for each media file:
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github)**
 
-![f6b78ac9-bfba-445f-9ce9-adbe4c3b25fb](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/a9447796-6b75-4f84-9f0d-0c782978cbc3)
+![4 (1)](https://github.com/Trainingdata-datamarket/Selfies-and-video-dataset/assets/113421352/09d76837-c909-48c6-8517-b4f05f5a3de4)
 
 <a name="link"></a>
 # Links
